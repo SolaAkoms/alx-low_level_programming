@@ -1,12 +1,6 @@
 #include <stdio.h>
 
-/**
-* print_number - prints a number
-*
-* Return: 0
-*/
-
-int print_number(void)
+int main(void)
 {
 int n;
 int a[5];
